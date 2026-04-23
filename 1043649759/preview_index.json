@@ -1,0 +1,97 @@
+{
+  "qq_number": "750958643",
+  "group_number": "1043649759",
+  "updated_at": "2026-04-23T15:52:37.744893",
+  "skins": [
+    {
+      "name": "时小猪猪",
+      "file": "时小猪猪.bdi",
+      "thumb": "时小猪猪.bdi_py_26_default_thumb.png",
+      "full": "时小猪猪.bdi_py_26_default.png"
+    },
+    {
+      "name": "时简约脆",
+      "file": "时简约脆.bdi",
+      "thumb": "时简约脆.bdi_py_26_default_thumb.png",
+      "full": "时简约脆.bdi_py_26_default.png"
+    },
+    {
+      "name": "时仿iOS动效",
+      "file": "时仿iOS动效.bdi",
+      "thumb": "时仿iOS动效.bdi_py_26_default_thumb.png",
+      "full": "时仿iOS动效.bdi_py_26_default.png"
+    },
+    {
+      "name": "小时萌物2",
+      "file": "小时萌物2.bdi",
+      "thumb": "小时萌物2.bdi_py_26_default_thumb.png",
+      "full": "小时萌物2.bdi_py_26_default.png"
+    },
+    {
+      "name": "时小猪猪1",
+      "file": "时小猪猪1.bdi",
+      "thumb": "时小猪猪1.bdi_py_26_default_thumb.png",
+      "full": "时小猪猪1.bdi_py_26_default.png"
+    },
+    {
+      "name": "时冬日玉桂狗",
+      "file": "时冬日玉桂狗.bdi",
+      "thumb": "时冬日玉桂狗.bdi_py_26_default_thumb.png",
+      "full": "时冬日玉桂狗.bdi_py_26_default.png"
+    },
+    {
+      "name": "时许愿兔",
+      "file": "时许愿兔.bdi",
+      "thumb": "时许愿兔.bdi_py_26_default_thumb.png",
+      "full": "时许愿兔.bdi_py_26_default.png"
+    },
+    {
+      "name": "时小熊猫",
+      "file": "时小熊猫大动效.bdi",
+      "thumb": "时小熊猫大动效.bdi_py_26_default_thumb.png",
+      "full": "时小熊猫大动效.bdi_py_26_default.png"
+    },
+    {
+      "name": "时冬日玉桂狗",
+      "file": "时冬日玉桂狗.bds",
+      "thumb": "时冬日玉桂狗.bds_py_26_default_thumb.png",
+      "full": "时冬日玉桂狗.bds_py_26_default.png"
+    },
+    {
+      "name": "时小熊猫大动效",
+      "file": "时小熊猫大动效.bds",
+      "thumb": "时小熊猫大动效.bds_py_26_default_thumb.png",
+      "full": "时小熊猫大动效.bds_py_26_default.png"
+    },
+    {
+      "name": "时仿iOS动效",
+      "file": "时仿iOS动效.bds",
+      "thumb": "时仿iOS动效.bds_py_26_default_thumb.png",
+      "full": "时仿iOS动效.bds_py_26_default.png"
+    },
+    {
+      "name": "时许愿兔",
+      "file": "时许愿兔.bds",
+      "thumb": "时许愿兔.bds_py_26_default_thumb.png",
+      "full": "时许愿兔.bds_py_26_default.png"
+    },
+    {
+      "name": "时小猪猪",
+      "file": "时小猪猪.bds",
+      "thumb": "时小猪猪.bds_py_26_default_thumb.png",
+      "full": "时小猪猪.bds_py_26_default.png"
+    },
+    {
+      "name": "时简约脆",
+      "file": "时简约脆.bds",
+      "thumb": "时简约脆.bds_py_26_default_thumb.png",
+      "full": "时简约脆.bds_py_26_default.png"
+    },
+    {
+      "name": "小时萌物2",
+      "file": "小时萌物2.bds",
+      "thumb": "小时萌物2.bds_py_26_default_thumb.png",
+      "full": "小时萌物2.bds_py_26_default.png"
+    }
+  ]
+}

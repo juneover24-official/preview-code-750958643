@@ -1,7 +1,7 @@
 {
   "qq_number": "750958643",
   "group_number": "1043649759",
-  "updated_at": "2026-04-23T15:52:37.744893",
+  "updated_at": "2026-07-24T07:22:17+00:00",
   "skins": [
     {
       "name": "时小猪猪",
@@ -92,6 +92,12 @@
       "file": "小时萌物2.bds",
       "thumb": "小时萌物2.bds_py_26_default_thumb.png",
       "full": "小时萌物2.bds_py_26_default.png"
+    },
+    {
+      "name": "shi蛋卷星星喵",
+      "file": "shi蛋卷星星喵.bdi",
+      "thumb": "shi蛋卷星星喵.bdi_py_26_light_thumb.png",
+      "full": "shi蛋卷星星喵.bdi_py_26_light_thumb.png"
     }
   ]
 }

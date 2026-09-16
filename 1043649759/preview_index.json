@@ -1,7 +1,7 @@
 {
   "qq_number": "750958643",
   "group_number": "1043649759",
-  "updated_at": "2026-07-25T08:28:24+00:00",
+  "updated_at": "2026-09-16T12:59:37+00:00",
   "skins": [
     {
       "name": "时小猪猪",
@@ -110,6 +110,13 @@
       "file": "RedeAL_zh_shi小鼠厨师长.bdi",
       "thumb": "RedeAL_zh_shi小鼠厨师长.bdi_py_26_light_thumb.png",
       "full": "RedeAL_zh_shi小鼠厨师长.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "shi霉豆腐1",
+      "file": "shi霉豆腐1.bdi",
+      "thumb": "shi霉豆腐1.bdi_py_26_light_thumb.png",
+      "full": "shi霉豆腐1.bdi_py_26_light_thumb.png",
+      "file_id": "e507dd7f01c65d58c2b17b19ada10ad7"
     }
   ]
 }
